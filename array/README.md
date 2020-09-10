@@ -3,3 +3,4 @@
 -   [Kids with the greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 -   [Shuffle the array](https://leetcode.com/problems/shuffle-the-array/)
 -   [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs/)
+-   [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
