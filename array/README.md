@@ -4,3 +4,4 @@
 -   [Shuffle the array](https://leetcode.com/problems/shuffle-the-array/)
 -   [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs/)
 -   [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+-   [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
