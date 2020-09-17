@@ -8,3 +8,4 @@
 -   [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 -   [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
 -   [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+-   [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
