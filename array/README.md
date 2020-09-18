@@ -11,3 +11,4 @@
 -   [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 -   [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 -   [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+-   [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
