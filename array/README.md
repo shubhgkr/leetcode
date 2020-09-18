@@ -9,3 +9,4 @@
 -   [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
 -   [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 -   [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+-   [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
