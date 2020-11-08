@@ -14,3 +14,4 @@
 -   [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 -   [Height Checker](https://leetcode.com/problems/height-checker/)
 -   [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+-   [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
