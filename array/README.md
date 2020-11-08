@@ -16,3 +16,4 @@
 -   [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 -   [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
 -   [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)
+-   [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
