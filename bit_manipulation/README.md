@@ -6,3 +6,4 @@
 -   [Missing Number](https://leetcode.com/problems/missing-number/)
 -   [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 -   [Find the Difference](https://leetcode.com/problems/find-the-difference/)
+-   [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
