@@ -8,3 +8,4 @@
 -   [Find the Difference](https://leetcode.com/problems/find-the-difference/)
 -   [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 -   [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+-   [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
