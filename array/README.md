@@ -22,3 +22,4 @@
 -   [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
 -   [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 -   [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+-   [Two Sum](https://leetcode.com/problems/two-sum/)
