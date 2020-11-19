@@ -20,3 +20,4 @@
 -   [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 -   [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
 -   [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
+-   [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
