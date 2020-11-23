@@ -30,3 +30,4 @@
 - [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)
 - [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
+- [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
