@@ -28,3 +28,4 @@
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Array Partition I](https://leetcode.com/problems/array-partition-i/)
 - [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+- [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)
