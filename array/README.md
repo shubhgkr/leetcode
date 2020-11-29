@@ -33,3 +33,4 @@
 - [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
+- [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
