@@ -35,3 +35,4 @@
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
 - [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+- [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
