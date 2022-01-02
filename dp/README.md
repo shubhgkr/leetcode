@@ -2,3 +2,4 @@
 -   [Divisor game](https://leetcode.com/problems/divisor-game/)
 -   [Paint house](https://leetcode.com/problems/paint-house/)
 -   [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+-   [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
